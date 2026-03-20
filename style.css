@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.border{
+    border: solid;
+    border-radius: 5px;
+}
+div{
+    text-align: left;
+}
+td{
+    width:5%;
+    height: 7vh;
+    text-align: center;
+}
+.table{
+    width: 100vw;
+}
+.classifier{
+    width: 15px;
+    height: 15px;
+    right: 100%;
+    display: inline-block;
+}
+#naoMetaisC{
+    background-color: green;
+}
+#alcalinosC{
+    background-color: orange;
+}
+#semiMetaisC{
+    background-color: rgb(27, 129, 133);
+}
+#outrosMetaisC{
+    background-color: rgba(13, 132, 136, 0.616);
+}
+#lantanideosC{
+    background-color: aquamarine;
+}
+#gasesNobresC{
+    background-color: rgb(48, 99, 156);
+}
+#metaisAlcalinoTerrososC{
+    background-color: rgb(217, 255, 0);
+}
+#halogeniosC{
+    background-color: rgb(112, 210, 255);
+}
+#metaisDeTransicaoC{
+    background-color: rgb(226, 134, 111);
+}
+#actinidiosC{
+    background-color: rgb(249, 189, 255);
+}
