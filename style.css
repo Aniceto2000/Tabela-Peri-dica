@@ -3,6 +3,9 @@
     margin: 0px;
     padding: 0px;
 }
+body{
+    background-color: rgba(13, 132, 136, 0.4);
+}
 .border{
     border: solid;
     border-radius: 5px;
